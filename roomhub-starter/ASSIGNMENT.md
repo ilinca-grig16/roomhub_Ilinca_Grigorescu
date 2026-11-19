@@ -115,7 +115,6 @@ Send the repository link at minute 60, before the quiz. Anything committed after
 - You may not get help from other colleagues.
 
 ## Time tips (approximate)
-
 | Minutes | What you do |
 |---|---|
 | 0–5 | Clone, run, read the contract and the rules |
